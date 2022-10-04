@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "",
   "dependencies": {
-    "adm-zip": "^0.4.13",
+    "adm-zip": "^0.5.9",
     "axios": "^0.21.1"
   },
   "devDependencies": {
