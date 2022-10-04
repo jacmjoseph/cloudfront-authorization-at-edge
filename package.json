@@ -40,7 +40,7 @@
     "jsonwebtoken": "^8.5.1",
     "jwks-rsa": "^1.9.0",
     "ncp": "^2.0.0",
-    "s3-spa-upload": "^1.1.6"
+    "s3-spa-upload": "^1.2.1"
   },
   "prettier": {
     "trailingComma": "es5",
