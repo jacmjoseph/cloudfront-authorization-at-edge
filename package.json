@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "adm-zip": "^0.4.16",
-    "aws-sdk": "^2.737.0",
+    "aws-sdk": "^2.1214.0",
     "axios": "^0.21.1",
     "cookie": "^0.4.1",
     "jsonwebtoken": "^8.5.1",
